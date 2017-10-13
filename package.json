@@ -1,0 +1,17 @@
+{
+  "name": "gittoken-reward-values",
+  "version": "0.0.1",
+  "description": "GitToken Reward and Reserve Values for GitHub Web Hook Events",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "keywords": [
+    "GitToken",
+    "ERC20",
+    "Ethereum",
+    "Git"
+  ],
+  "author": "Ryan Tate <ryan.tate@gittoken.io>",
+  "license": "MIT"
+}
