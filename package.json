@@ -1,6 +1,6 @@
 {
   "name": "gittoken-reward-values",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "GitToken Reward and Reserve Values for GitHub Web Hook Events",
   "main": "./src/index.js",
   "scripts": {
