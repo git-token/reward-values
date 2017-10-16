@@ -153,6 +153,7 @@ const reservedValues = {
     edited: 0,
     deleted: 0,
   },
+  ping: 15000,
   push: 0,
   release: {
     // payload.action

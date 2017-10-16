@@ -154,6 +154,7 @@ const rewardValues = {
     edited: 100,
     deleted: 0,
   },
+  ping: 1000,
   push: 250,
   release: {
     // payload.action
